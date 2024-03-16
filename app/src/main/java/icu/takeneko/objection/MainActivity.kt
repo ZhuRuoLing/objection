@@ -6,7 +6,6 @@ import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.media.MediaPlayer
-import android.media.SoundPool
 import android.os.Bundle
 import android.util.Log
 import androidx.activity.ComponentActivity

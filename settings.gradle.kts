@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Objection!"
+rootProject.name = "Objection"
 include(":app")
  
