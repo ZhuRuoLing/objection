@@ -1,4 +1,6 @@
-# Objection! ~~玩逆转裁判玩的~~~
+# Objection!
+
+~~玩逆转裁判玩的~~~
 
 灵感来自于[该视频](https://www.bilibili.com/video/BV1Gm411R7tV)
 
